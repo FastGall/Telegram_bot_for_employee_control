@@ -1,2 +1,2 @@
-# Telegram_bot_for_employee_control
-bot
+# Telegram bot for employee control
+
